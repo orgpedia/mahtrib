@@ -50,9 +50,35 @@
 # Page 3
 शासन निर्णय क्रमांकः शाआबां- २०१६/प्र.क्र.३/बां.व्य.क.
 स्थापत्यविषयक कामे
+-------------------------------------------------------------------------------------------------------
+| अ. क्र. | कंत्राटदाराची वर्गवारी | काम करण्याची आर्थिक क्षमता | नोंदणीकरणास मंजूरी देण्यास सक्षम प्राधिकारी |
+| १ | वर्ग १ अ | रु. २५ कोटी पेक्षा अधिक (अमर्याद) | सचिव, आदिवासी विकास विभाग |
+| २ | वर्ग १ ब | रु. १५ कोटी पेक्षा अधिक ते रु.२५.०० कोटी पर्यंत | सचिव, आदिवासी विकास विभाग |
+| ३ | वर्ग १ क | रु.७.५० कोटी पेक्षा अधिक ते रु. १५.०० कोटी पर्यंत | सचिव, आदिवासी विकास विभाग |
+| ४ | वर्ग २ | रु. ७.५ कोटी पर्यंत | मुख्य अभियंता, बांधकाम व्यवस्थापन कक्ष |
+| ५ | वर्ग ३ | रु.३.०० कोटी पर्यंत | अधीक्षक अभियंता, सा.बां.(आदिवासी) मंडळ |
+| ६ | वर्ग ४ | रु. १.५० कोटी पर्यंत | कार्यकारी अभियंता, सा.बां (आदिवासी विभाग |
+| ७ | वर्ग ४ अ | रु. ९० लक्ष पर्यंत | कार्यकारी अभियंता, सा.बां (आदिवासी) विभाग |
+| ८ | वर्ग ५ | रु.५० लक्ष पर्यंत | कार्यकारी अभियंता, सा.बां (आदिवासी) विभाग |
+| ९ | वर्ग ५ अ | रु.३० लक्ष पर्यंत | कार्यकारी अभियंता, सा.बां ( आदिवासी विभाग |
+| १० | वर्ग ६ | रु. १५ लक्ष पर्यत | कार्यकारी अभियंता, सा.बां (आदिवासी) विभाग |
+| ११ | वर्ग ७ | रु. ७.०० लक्ष पर्यंत | कार्यकारी अभियंता, सा.बां (आदिवासी) विभाग |
+| १२ | वर्ग ८ | रु. ३.०० लक्ष पर्यंत | कार्यकारी अभियंता, सा.बां (आदिवासी) विभाग |
+| १३ | वर्ग ९ | रु. २.०० लक्ष पर्यंत | कार्यकारी अभियंता, सा.बां (आदिवासी) विभाग |
+-------------------------------------------------------------------------------------------------------
 विद्युत कामे
+-------------------------------------------------------------------------------------------------------
+| अ. क्र. | कंत्राटदाराची वर्गवारी | काम करण्याची आर्थिक क्षमता | नोंदणीकरणास मंजूरी देण्यास सक्षम प्राधिकारी |
+| १ | वर्ग अ | अमर्याद | मुख्य अभियंता, बांधकाम व्यवस्थापन कक्ष |
+| २ | वर्ग ब | रु. २५ लक्ष पर्यंत | अधीक्षक अभियंता, सा.बां. (आदिवासी) मंडळ |
+-------------------------------------------------------------------------------------------------------
 # Page 4
 शासन निर्णय क्रमांकः शाआबां- २०१६/प्र.क्र.३/बां.व्य.क.
+-------------------------------------------------------------------------
+| ३ | वर्ग क | रु. १० लक्ष पर्यंत | कार्यकारी अभियंता, सा. बां (आदिवासी) विभाग |
+| ४ | वर्ग ड | रु. ७.५ लक्ष पर्यंत | कार्यकारी अभियंता, सा.बां (आदिवासी) विभाग |
+| ५ | वर्ग इ | रु. २.०० लक्ष पर्यंत | कार्यकारी अभियंता, सा.बां (आदिवासी) विभाग |
+-------------------------------------------------------------------------
 २. उपरोक्त वर्गवारीनुसार कंत्राटदारांच्या नोंदणीकरणासाठीच्या नियमांचे या शासन निर्णयाच्या परिशिष्ट- १ मध्ये सविस्तर विवेचन करण्यात आले आहे. परिशिष्ट-१ मध्ये नमूद
 केल्याप्रमाणेच कंत्राटदारांच्या नोंदणीकरणाची संपूर्ण प्रक्रिया पार पाडणे आवश्यक राहील.
 ३. कंत्राटदारांनी सादर केलेल्या अद्ययावत आयकर निपटारा प्रमाणपत्रातील गेल्या तीन ते
@@ -126,8 +152,32 @@ capability. The classification, solvency, registration fees, annual turnover and
 in hand and officer competent to sanction the registration/ renewal of registration/ Up
 gradation are shown in the following table.
 (a) Civil Works
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Class | Minimum solvency (Rs. In Lakhs) | Capable of executing the work estimate to cost upto (Rs. In lakhs) | Average annual turnover (Rs. In lakhs) | Cost of work in hand (Rs. In lakhs) | Registration Fee (Rs. in Thousands) | Registration Sanctioning Authority | Registration Authority/ Office. |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |  |
+| IA | 150 | Without limit | 850 | 450.00 | 75.00 | Secretary to Govt. T.D.D. | EX. Engr (Works) T.D.D. |
+| IB | 150 | More than 1500 to 2500 | 550 | 450.00 | 60.00 | Secretary to Govt. T.D.D. | EX. Engr (Works) T.D. D. |
+| IC | 150 | More than 750 to 1500 | 300 | 450.00 | 50.00 | Secretary to Govt. T.D.D. | EX. Engr (Works) T.D. D. |
+| II | 75 | 750 | 200 | 300.00 | 45.00 | CE (WMC) | -do |
+| III | 30 | 300 | 90 | 150.00 | 30.00 | SE (TRIBAL). | -do |
+| IV | 15 | 150 | 60 | 80.00 | 15.00 | EE (TRIBAL). | -do |
+| IV-A | 9 | 90 | 40 | 60.00 | 15.00 | -do | -do |
+| V | 5 | 50 | 25 | 30.00 | 10.00 | -do | -do |
+| VA | 3 | 30 | 15 | 20.00 | 07.50 | -do | -do |
+| VI | 2 | 15 | 7.50 | 10.00 | 7.50 | do | do |
+| VII | 1 | 7 | 1.50 | 3.00 | 6.00 | -do | -do |
+| VIII | 0.50 | 3 | 1.00 | 1.50 | 4.00 | -do | -do |
+| IX | 0.25 | 2 | 0.50 | 1 | 3.00 | -do | -do |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Page 9
 (b) Electrical Works
+---------------------------------------------------------------------------------
+| A | 8 | Without limit | 20 | 40.00 | 20.00 | CE TDD, Construction mgt cell | Ex, Engr TRIBA L |
+| B | 4 | 25 | 10 | 30.00 | 15.00 | SE, P.W (Tribal), Circle | -do |
+| C | 3 | 10 | 6 | 15.00 | 6.00 | EE, P.W (Tribal), Division | -do |
+| D | 1.50 | 7.50 | 3 | 8.00 | 5.00 | -do | -do |
+| E | 0.50 | 2.00 | 1.00 | 1.75 | 3.00 | -do | -do |
+---------------------------------------------------------------------------------
 2. (a) For Registration of Contractors from other states all the documents and
 certificates of work done, solvency certificate etc. shall be sent confidentially of
 the concerned department of the other state for verification and certification and
@@ -158,6 +208,10 @@ v) The contractor shall produce The GST Registration Certificate, Under Maharash
 The concerned officers should ask the contactors to produce the list of works together with the information in the proforma given below, supported by the
 original or attested copies of certificate from the concerned departmental
 authorities in respect of works carried out the works in progress in proforma along with performance certificate.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| SR | Name of Work | Amount of work put to tender | Date and year of commencement | Amount spent during each of last 5 years (Preceding year of application | Amount of work still remaining to be executed | Remark |
+|  |  |  |  |  |  |  |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 they seek enrolment. If the criteria given in rule I) above is not fulfilled, in any particular Department or organization to opine about
 i) Contractor`s/ Organization of work and resources
 ii) Quality / performance of contractor.
@@ -222,7 +276,38 @@ This should be insisted for registration in Class - V and above. The contractor
 should have at least one of the following three groups of machineries in good
 condition. This is not required for electrical contractors.
 Contractor should have set of machinery of any one group as mentioned below.
+--------------------------------------------------------------------------------
+| Details of Machinery | Class - I A/B/C & II,III | Class - IV | Class - IVA | Class - V |
+| Group-1 |  |  |  |  |
+| Trucks / Tipper / Tractor-Trolly. | 4 | 3 | 1 |  |
+| Reversible Mixer. | 3 | 2 | 2 | 1 |
+| Vibrator | 3 | 2 | 2 | 1 |
+| 5 H.P. Pump. | 2 | 1 |  | 1 |
+| Centering Material(Sqm.) | 500 SQ.M. | 300 SQ.M | 200 SQ.M | 100 SQ.M |
+| Mechanical Hoist | 1 Set. |  |  |  |
+--------------------------------------------------------------------------------
 # Page 13
+--------------------------------------------
+| Group-2 |  |  |  |  |
+| Trucks / Tipper / Tractor-Trolly. | 10 | 6 | 4 | 1 |
+| Excavator | 2 | 1 |  |  | T |
+| Road Roller. (DRR) | 2 | 1 | 1 |  |
+| Vibratory Roller | 1 |  | T |  |  |
+| Water Tanker. | 2 | 1 | 1 | 1 |
+| Air Compressor. | 2 | 1 |  |  |
+| Concrete Mixer. | 2 |  |  |  |
+| Vibrator | 2 | 1 | 1 | 1 |
+| Group-3 |  |  |  |  |
+| Trucks / Tipper / Tractor-Trolly. |  | 3 | 2 | 1 |
+| Road Roller. (DRR) | 2 | 1 | 1 |  |
+| Vibratory Roller | 1 |  |  |  |
+| Asphalt Mixer and Boiler. |  |  |  |  |
+| Drum Mix Plant(with paver finisher) |  |  |  |  |
+| Sensor Paver Finisher. | 1 |  |  | T |
+| Mechanical Asphalt Spryer. |  |  |  |  |
+| Concrete Mixer. | 1 | 1 | 1 | 1 |
+| Vibrator | 1 | 1 | 1 | 1 |
+--------------------------------------------
 Note: As a proof of ownership of machinery the contractor shall submit Purchase Invoice copy of RC book, certificate from Assistant Chief Engineer Mechanical, If any.
 # Page 14
 iv) Attested copy of partnership deed of the firm in case of partnership firm
@@ -326,49 +411,235 @@ c) It is likely that some contractors may omit from annual return, works where t
 # Page 20
 "Annexure A”
 Application for Enrolment / Upgradation / Renewal as "CONTRACTOR"
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 1. Name of the applicant and full address |  |
+| 2. Where the firm is a joint stock company, undivided Hindu family, individual or a registered partnership firm (Attested copy of deeds or article of Association to be enclosed) |  |
+| 3. Name of person holding the power of attorney (Attested copy of power of attorney is to be enclosed) |  |
+| 4. Name of sole proprietors/ partner with particulars/ liabilities (Attested copy of partnerships deed to beenclosed) |  |
+| 5. Name of bankers and full Address |  |
+| 6. Place of Business |  |
+| 7. Class in which enrolment is sought for. |  |
+| 8. List of the works undertaken/ executed during a period of three years preceding the date of application a. Name of work b. Amount of work put to tender c. Date and year ofcommencement. d. Amount spent during each of last 3 years e. Amount of work still remaining to be executed N.B. - Original or attested copies of the certificates of verification of above details by the officers under whom works are carried out to be enclosed (Photostat should also be attested by the gazetted officer in the division where the application is made) |  |
+| 9. List of tools and plants in possession of the contractor (Attach separate list) |  |
+| 10. Technical qualification and experience ofthe proprietor or partners and dealing technical employees in the firm (Attach separate list) |  |
+| 11. Workshop, machineries, tools and plants owned by the applicant (Location and site of workshop and also full details regarding machines, tools etc. to be given) (Attach separate sheets) |  |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Page 21
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| 12. Whether enlisted in any other Department / Organization / Other state if so, in which category showing the amount qualified to tender. |  |
+| 13. a) Has the applicant or his partners or Directors been black listed in the past by any Govt. Dept./ Organization/ Other state b) Has the applicant applied for registration elsewhere in his name or other name. If so, whether the application is rejected. give particulars |  |
+| 14. Whether the applicant has produced upto date income tax clearance certificate |  |
+| 15. Amount of solvency certificate which the applicant has held or has produced. |  |
+| 16. I/We certify that I/We have been not and will not get myself/ourselves registered as contractor in the department under more than one name. |  |
+|  | Signature of the Applicant Full Postal Address |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Page 22
 "Annexure B"
 Register of approved contractors
 (Classwise)
 Name of Division :
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No | Name of Contractor & address | Authority for Registration | Date on which the fees was credited in the Cashbook | Solvency Certificate | Class of Contractor | Re marks | Signature of Executive Engineer |
+| 1 | 2 | 3 | 4 | 5 | 6 |  | 8 |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Page 23
 "Annexure C”
 APPLICATION FORM FOR REGISTRATION OF DEGREE / DIPLOMA
 ENGINEERS AS CONTRACTOR
+-------------------------------------------------------------------------------------------------------------------------------------------------
+| 1. Name of the Applicant and Present address |  |
+| 2. Date of Birth |  |
+| 3. Place of Birth |  |
+| 4. Technical Qualification with year of passing (Degree/Diploma/Name of Institute/university) |  |
+| 5. Place of Business. |  |
+| 6. Name of Bankers and Full Address. |  |
+| 7. Class in which enrolment is sought. |  |
+| 8. Whether enlisted in the department or any other organization, if so, state the category and enclose copy of certificate. |  |
+| I certify that I have not been/will not get myself registered as Contractor in the Department under more than the same. Signature of Applicant. |
+-------------------------------------------------------------------------------------------------------------------------------------------------
 # Page 24
 "Annexure D"
 Information to be Submitted by Contractor (Annually)
 M/s. / Shri.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr No. | Name of Work | Amount put to Tender | Date & Year of starting | Amount spent during the year | Amount of cheques paid during the year | Balance amount of work to be executed | Remarks whether completed or In progress | In case of private work whether copies of agreement are attached |
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Signature of Contractor
 # Page 25
 "Annexure E"
 Checklist
 Mantralaya level
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr.No. | Documents required | Class I-A | Class I-B | Class I-C |
+| 1. | Registration fee | 75,000/ | 60,000/ | 50,000/ |
+| 2. | Cost of work in hand | 450 lakhs | 450 lakhs | 450 lakhs |
+| 3. | Average Annual turnover | 850 lakhs | 550 lakhs | 300 lakhs |
+| 4. | Income tax clearance/Return certificate | Yes/No | Yes/No | Yes/No |
+| 5. | Solvency Certificate | 150 lakhs | 150 lakhs | 150 lakhs |
+| 6. | List of Machinery | Group-1/2/3 | Group-1/2/3 | Group-1/2/3 |
+| 7. | Technical Staff | B.E Civil-2 Nos./ Diploma Civil-4 Nos. and Civil ITI 6 Nos. Minimum 50% Staff in each category and minimum 5 years experience | B.E Civil - 2 Nos./ Diploma Civil-4 Nos. and Civil ITI 6 Nos. Minimum 50% Staff in each category and minimum 5 years experience | B.E Civil-2 Nos./ Diploma Civil-4 Nos. and Civil ITI 6 Nos. Minimum 50% Staff in each category and minimum 5 years experience |
+| 8. | Partnership deed | Yes/No | Yes/No | Yes/No |
+| 9. | GST Certificate | Yes/No | Yes/No | Yes/No |
+| 10. | Affidavit stating contractor not blacklisted | Yes/No | Yes/No | Yes/No |
+| 11. | Registration with other Department | Yes/No | Yes/No | Yes/No |
+| 12. | Provident fund clearance | Yes/No | Yes/No | Yes/No |
+| 13. | Shop Act License | Yes/No | Yes/No | Yes/No |
+| 14. | P.T.R.C/P.T.R.E Certificate | Yes/No | Yes/No | Yes/No |
+| 15. | Work experience in Tribal Area | Yes/No | Yes/No | Yes/No |
+| 16. | Affidavit stating documents trueness | Yes/No | Yes/No | Yes/No |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Page 26
 "Annexure- F"
 Checklist
 Chief Engineer (Construction management Cell level)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Documents required | Class II |
+| 1. | Registration fee | 45,000/ |
+| 2. | Cost of work in hand | 300 lakhs |
+| 3. | Average Annual turnover | 200 lakhs |
+| 4. | Income tax clearance/Return certificate | Yes/No |
+| 5. | Solvency Certificate | 75 lakhs |
+| 6. | List of Machinery | Group-1/2/3 |
+| 7. | Technical Staff | B.E Civil - 2 Nos./ Diploma Civil - 4 Nos. and Civil ITI-6 Nos. Minimum 50% Staff in each category and minimum 5 years experience |
+| 8. | Partnership deed | Yes/No |
+| 9. | GST Certificate | Yes/No |
+| 10. | Affidavit stating contractor not blacklisted | Yes/No |
+| 11. | Registration with other Department | Yes/No |
+| 12. | Provident fund clearance | Yes/No |
+| 13. | Shop Act License | Yes/No |
+| 14. | P.T.R.C/P.T.R.E Certificate | Yes/No |
+| 15. | Work experience in Tribal Area | Yes/No |
+| 16. | Affidavit stating documents trueness | Yes/No |
+------------------------------------------------------------------------------------------------------------------------------------------------------
 # Page 27
 Annexure- G"
 Checklist
 Superintending Engineer, P.W (Tribal) Circle level
+--------------------------------------------------------------------------------
+| Sr.No. | Documents required | Class III |
+| 1. | Registration fee | 30,000/ |
+| 2. | Cost of work in hand | 150 lakhs |
+| 3. | Average Annual turnover | 90 lakhs |
+| 4. | Income tax clearance/Return certificate | Yes/No |
+| 5. | Solvency Certificate | 30 lakhs |
+| 6. | List of Machinery | Group -1/2/3 |
+| 7. | Technical Staff | B.E Civil-1 No./ Diploma Civil-1 No. and Civil ITI - 2 Nos. |
+| 8. | Partnership deed | Yes/No |
+| 9. | GST Certificate | Yes/No |
+| 10. | Affidavit stating contractor not blacklisted | Yes/No |
+| 11. | Registration with other Department | Yes/No |
+| 12. | Provident fund clearance | Yes/No |
+| 13. | Shop Act License | Yes/No |
+| 14. | P.T.R.C/P.T.R.E Certificate | Yes/No |
+| 15. | Work experience in Tribal Area | Yes/No |
+| 16. | Affidavit stating documents trueness | Yes/No |
+--------------------------------------------------------------------------------
 # Page 28
 "Annexure - H"
 Checklist
 Executive Engineer, P.W (Tribal) Division level
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Sr. No. | Documents required | Class-IV | Class-IV- A | Class-V | Class- VA | Class VI | Class VII | Class VIII | Class IX |
+| 1. | Registration fee | 15,000/ | 15,000/ | 10,000/ | 7500/ | 7500/ | 6000/ | 4000/ | 3000/ |
+| 2. | Cost of work in hand | 80 lakhs | 60 lakhs | 30 lakhs | 20 lakhs | 10 lakhs | 3 lakhs | 1.50 lakhs | 1 lakh |
+| 3. | Average Annual turnover | 60 lakhs | 40 lakhs | 25 lakhs | 15 lakhs | 7.50 lakhs | 1.50 lakhs | 1 lakh | 0.50 lakh |
+| 4. | Income tax clearance/ Return certificate | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No |
+| 5. | Solvency Certificate | 15 lakhs | 9 lakhs | 5 lakhs | 3 lakhs | 2 lakhs | 1 lakh | 0.50 lakh | 0.25 lakh |
+| 6. | List of Machinery | Group 1/2/3 | Group 1/2/3 | Group- 1/2/3 | ΝΑ | ΝΑ | ΝΑ | ΝΑ | ΝΑ |
+| 7. | Technical Staff | B.E Civil 1 No./ Diploma Civil-1 No. and Civil ITI-2 Nos. | Diploma Civil-1 No. and Civil ITI-1 No. | Diploma Civil-1 No. and Civil ITI 1 No. | ΝΑ | ΝΑ | ΝΑ | ΝΑ | ΝΑ |
+| 8. | Partnership deed | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No |
+| 9. | GST Certificate | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No |
+| 10. | Affidavit stating contractor not blacklisted | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No |
+| 11. | Registration with other Department | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No |
+| 12. | Provident fund clearance | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No |
+| 13. | Shop Act License | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No |
+| 14. | P.T.R.C/P.T.R. E Certificate | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No |
+| 15. | Work experience in Tribal Area | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No |
+| 16. | Affidavit stating documents trueness | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No | Yes/No |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Page 29
 "Annexure- I"
 Checklist
 Chief Engineer (Construction management Cell level)
 (Electrical Works)
+----------------------------------------------------------------------------------------------------
+| Sr.No. | Documents required | Class-A |
+| 1. | Registration fee | 20,000/ |
+| 2. | Cost of work in hand | 40 lakhs |
+| 3. | Average Annual turnover | 20 lakhs |
+| 4. | Income tax clearance/Return certificate | Yes/No |
+| 5. | Solvency Certificate | 8 lakhs |
+| 6. | List of Machinery | ΝΑ |
+| 7. | Technical Staff | B.E (Electrical)- 1 No/Diploma in Electrical Engineering-1, Supervisors - 2 Nos |
+| 8. | Partnership deed | Yes/No |
+| 9. | GST Certificate | Yes/No |
+| 10. | Affidavit stating contractor not blacklisted | Yes/No |
+| 11. | Registration with other Department | Yes/No |
+| 12. | Provident fund clearance | Yes/No |
+| 13. | Shop Act License | Yes/No |
+| 14. | P.T.R.C/P.T.R.E Certificate | Yes/No |
+| 15. | Work experience in Tribal Area | Yes/No |
+| 16. | Affidavit stating documents trueness | Yes/No |
+----------------------------------------------------------------------------------------------------
 # Page 30
 “Annexure- J”
 Checklist
 Superintending Engineer, P.W (Tribal) Circle level
 (Electrical Works)
+-----------------------------------------------------------------------------------------------------
+| Sr. No. | Documents required | Class-B |
+| 1. | Registration fee | 15,000/ |
+| 2. | Cost of work in hand | 30 lakhs |
+| 3. | Average Annual turnover | 10 lakhs |
+| 4. | Income tax clearance/Return certificate | Yes/No |
+| 5. | Solvency Certificate | 4 lakhs |
+| 6. | List of Machinery | ΝΑ |
+| 7. | Technical Staff | B.E (Electrical)- 1 No/Diploma in Electrical Engineering -1, Supervisors - 2 Nos |
+| 8. | Partnership deed | Yes/No |
+| 9. | GST Certificate | Yes/No |
+| 10. | Affidavit stating contractor not blacklisted | Yes/No |
+| 11. | Registration with other Department | Yes/No |
+| 12. | Provident fund clearance | Yes/No |
+| 13. | Shop Act License | Yes/No |
+| 14. | P.T.R.C/P.T.R.E Certificate | Yes/No |
+| 15. | Work experience in Tribal Area | Yes/No |
+| 16. | Affidavit stating documents trueness | Yes/No |
+-----------------------------------------------------------------------------------------------------
 # Page 31
 "Annexure- K"
 Checklist
 Executive Engineer, P.W (Tribal) Division level
 (Electrical Works)
+-----------------------------------------------------------------------
+| Sr. No. | Documents required | Class-C | Class-D | Class-E |
+| 1. | Registration fee | 6,000/ | 5,000/ | 3,000/ |
+| 2. | Cost of work in hand | 15 lakhs | 8 lakhs | 1.75 lakhs |
+| 3. | Average Annual turnover | 6 lakhs | 3 lakhs | 1 lakh |
+| 4. | Income tax clearance/Return certificate | Yes/No | Yes/No | Yes/No |
+| 5. | Solvency Certificate | 3 lakhs | 1.50 lakhs | 0.50 lakhs |
+| 6. | List of Machinery | ΝΑ | ΝΑ | ΝΑ |
+| 7. | Technical Staff | ΝΑ | ΝΑ | ΝΑ |
+| 8. | Partnership deed | Yes/No | Yes/No | Yes/No |
+| 9. | GST Certificate | Yes/No | Yes/No | Yes/No |
+| 10. | Affidavit stating contractor not blacklisted | Yes/No | Yes/No | Yes/No |
+| 11. | Registration with other Department | Yes/No | Yes/No | Yes/No |
+| 12. | Provident fund clearance | Yes/No | Yes/No | Yes/No |
+| 13. | Shop Act License | Yes/No | Yes/No | Yes/No |
+| 14. | P.T.R.C/P.T.R.E Certificate | Yes/No | Yes/No | Yes/No |
+| 15. | Work experience in Tribal Area | Yes/No | Yes/No | Yes/No |
+| 16. | Affidavit stating documents trueness | Yes/No | Yes/No | Yes/No |
+-----------------------------------------------------------------------

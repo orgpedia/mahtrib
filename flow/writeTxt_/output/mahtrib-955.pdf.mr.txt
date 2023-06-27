@@ -18,6 +18,16 @@ Government Resolution No.: GAS 2021/C.R. 65/DESK 13 A
 process.
 3. Composition of the CSR Cell: The CSR cell will be headed by Commissioner, Tribal Department at Commissioner Office, assisted by relevant officers and a technical support team, which will be responsible for guiding and devising the CSR activities in the department. The Commissioner will be head of the cell which will coordinate with all officers of the department consisting of ATCS, POs and other relevant enablers.
 Tribal Development Department will constitute CSR Cell that shall provide end to end project management support for implementation of CSR activities in the state and would also ensure that all the information regarding CSR activities, the policy details and contact details of various key officers will be available on department's website. This CSR Cell shall consist of folllowing members:
+--------------------------------------------------------
+| Sr No. | Designation of Officer | Designation in Committee |
+| 1 | Commissioner, TDD | Chairman |
+| 2 | Joint Secretary, TDD | Member |
+| 3 | Concerned ATC | Member Secretary |
+|  | Executive Director, Quest | Member |
+| 5 | Representative, Quest | Member |
+| 6 | IT Professional | Member |
+| 7 | Expert from concerned field | Invitee |
+--------------------------------------------------------
 Roles and Responsibilities of CSR Cell : First level of contact for all corporate bodies who have contacted for or are considering to carry out CSR activities in the state. The official website of the department will showcase the CSR activities carried out by these corporates so that the concept propagates all over the state Receiving information regarding requirements on CSR activities in specific areas from POS and ATCs.
 Presenting all received requirements from field offices as well as interests of corporate bodies to Steering Committee.
 Empowering the relevant Commissionerates, ATCs, Project Officers and other relevant enablers working in the space of Tribal Development for quick, transparent & effective implementation
@@ -37,6 +47,15 @@ Monitor and support the execution and completion of CSR activities and implement
 Publish information regarding requirements for infrastructure or other support at various functionaries such as Ashram Schools, Other Educational Institutes under Department, Hostels, Community Health Centres, Adivasi Padas, Skill Development Group, SHGs etc.
 Provide report on a periodic basis on the progress of specified initiatives by CSR support Support in identifying relevant implementation/execution partners with relevant skills and capabilities required (such as NGOs, UNICEF, World Bank, UN, Nutrition Experts, etc.) Share best practices of successful CSR initiatives from within and outside of the State and explore the possibilities of horizontal implementation Ensure timely completion of projects and obtain feedback from the corporates
 5. Composition of Steering Committee: Tribal Development Department will constitute a steering committee which will finalise the cousre of action of conducting CSR activities. This steering committee shall consist of following members:
+-------------------------------------------------------------
+| Sr No. | Designation of Officer | Designation in Committee |
+| 1 | Principal Secretary/Secretary, Tribal Department | Chairman |
+| 2 | Commissioner, Nashik | Member |
+| 3 | Commissioner, TRTI | Member |
+| A | MD, TDC | Member |
+| 5 | Experts from concerned field | Invitee |
+| 6 | Joint Secretary, TDD | Member Secretary |
+-------------------------------------------------------------
 Page 3 of 7
 # Page 4
 Government Resolution No.: GAS 2021/C.R. 65/DESK 13 A
@@ -67,6 +86,13 @@ MoU/Agreement with the Corporate
 Execution of CSR Activities by respective
 TDD officials, corporate body & CSR Cell
 ii) It has also been decided to delegate powers to officials at the ATC level to get applications for CSR initiatives that shall have an impact in one project area within their jurisdiction and under the cap of Rs. 50 Lakhs. for e.g. If an NGO wants to adopt a program in one school or community area, it may directly get into touch with the respective PO & ATC. However, these officials should involve CSR cell in these activities being carried out at local level. This CSR Cell at ATC level shall consist of folllowing members:
+--------------------------------------------------------
+| Sr No. | Designation of Officer | Designation in Committee |
+| 1 | Concerned ATC | Chairman |
+| 2 | Deputy Commissioner, ATC Office | Member Secretary |
+| 3 | Concerned Project Officer | Member |
+|  | Represntative, interested corporate body | Member |
+--------------------------------------------------------
 The Workflow is as follows:
 Start
 Corporate body may contact respective

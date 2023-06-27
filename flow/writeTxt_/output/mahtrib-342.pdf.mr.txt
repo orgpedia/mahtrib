@@ -16,6 +16,25 @@
 तीस कोटी सत्त्याण्णव लक्ष तीन हजार फक्त) खर्च करण्यास या शासन निर्णयाद्वारे मान्यता प्रदान करण्यात येत आहे.
 # Page 2
 शासन निर्णय क्रमांकः केंद्रिय-२०१९/प्र.क्र.६३/का.-१९
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  | अ.क्र. |  |  | योजनेचे नाव |  |  | ( | योजनेचे ठिकाण / योजना |  |  | सन २०१८-१९ |  |  | वितरीत |  |
+|  |  | राबविणारी यंत्रणा | करीता मंजूर | करण्यात येणारा |
+| PO/ATC/संस्था) | निधी | निधी |
+|  | (रु.लाखात) | (रु.लाखात) |
+|  | Committed Liability |  |
+| १ | २ | ३ |  | ५ |
+|  | Establishment of Warali Haat (Manor, Palghar) | Manor Palghar/ PO ITDP Jawhar | १०००.०० | २०३.९६ |
+|  | Upgradation and modernization of Ashram School Kitchens ( ३ lac @ AS for ATC Amravati  |  and Nagpur) | ATC Amravati and ATC Nagpur | ५१५.०० | १०५.०४ |
+|  | Health care for Ashram Schools and EMRS (Digitized health records, MIS and Command  |  Centre) | Commissionerate /Ameya Life | ५६१.०० | ११४.४२ |
+|  | Organizing FPOS of १५००० farmers for  |  processing, distribution, branding and retailing. | TRTI/TDC | १४४०.०० | २९३.७१ |
+| ५ | Tribal Training Institute | TRTI | १५००.०० | ३०५.९४ |
+|  | Creation of Monitoring and tracking softwares for Central Assistance schemes, Anudanit Schools, Aided Schools, EMRS, Nucleus Budget and Thakkarbappa | TRTI | ५००.०० | १०१.९८ |
+| ७ | Data Analytics Centre | TRTI/Pune University | १००.०० | २०.४० |
+|  | Benchmark survey and Developing Tribal Development Index | TRTI | २५०.०० | ५०.९९ |
+|  | Bharat Rural Livelihoods foundation- Improving livelihood conditions by augmentnig land and water resources, sustainable agri practices, enhancing livestock productivity, capacity building of GPs for IFR/CFR and convergence  |  of government schemes. | Commissionerate/ Chandrapur Gondia Gadchiroli Yavatmal/ BRLF | १००.०० | २०.४० |
+| १० | Stri Shakti-establishment and operation of 94 semi automated central kitchens | Commissionerate/ PO ITDP Taloda, Nashik, Dahanu, Yawal, ,Kinvat/Stri Shakti | ९४५.६२ | १९२.८७ |
+| ११ | Stri Shakti - establish and run Central kitchen | Commissionerate/ PO ITDP Kalwan (२), Dhule,Pandharkawada /Stri Shakti | १३२४.४१ | २७०.१३ |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ६ पैकी २
 # Page 3
 शासन निर्णय क्रमांक: केंद्रिय-२०१९/प्र.क्र.६३/का.-१९
@@ -23,12 +42,35 @@
 राबविणारी यंत्रणा करीता मंजूर करण्यात येणारा
 (PO/ATC/संस्था) निधी निधी
 (रु. लाखात) (रु.लाखात)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| १२ | Anant Computing-Digital inclusion of tribal youth by teaching in vernacular coding language including NLP | Commissionerate/ Anant Computing/ Across Maharashtra | २००.०० | ४०.७९ |
+| १३ | Improving quality of education through Activity Based learning and E- Learning in Ashram  |  School (PO Aurangabad) | PO ITDP Aurangabad / GAS – Wadner, Brahmani, Hatti, Surudi, Shedala (Implementing through NGO) | २०.०० | ४.०८ |
+| १४ | Montfort Social Institute- To form children's Parliament in all Ashram Schools | Commissionerate /Montfort Social Institute (Across Maharashtra) | ८५.०० | १७.३४ |
+| १५ | Seegreen Solution with Eklavya Society and Commissioner TDD-Creating of master plan of EMRS for sustainable buildings, human resources and facilities (१८ EMRS). | Commissionerate/ Seegreen Solution | १०६.८५ | २१.७९ |
+| १६ | SeeGreen Solution with ITDPs - Sensitization  |  of students, teachers and staff of Ashramschools through workshops by engaging them in developing sustainable projects at their school. Beneficiaries:90000 beneficiaries | Commissionerate/ Seegreen Solution | १२९.८८ | २६.४९ |
+| १७ | Art India Foundation- Students of Government Ashram Schools get benefit of a vibrant platform for creative expression. (४.२ Cr for ३ Yrs, benefiting १L students) Beneficiaries:१००००० beneficiaries | Commissionerate/ Art India Foundation (In AS across Maharashtra) | १०५.०० | २१.४२ |
+| १८ | Art India Foundation- Develop arts curriculum and training of teachers at Ashramschools (Covering yo Ashram schools, training yoo teachers) | Commissionerate/ Art India Foundation (In AS across Maharashtra | ४९.५० | १०.१० |
+| १९ | Eduisfun Technologies - Gamified Learning for Ashram School Students | Commissionerate/ Eduisfun/१६ EMRS | ४८.१० | ९.८१ |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ६ पैकी ३
 # Page 4
 शासन निर्णय क्रमांक: केंद्रिय-२०१९/प्र.क्र.६३/का.-१९
 2 Providing Chapati Machine (Roti /Chapati PO-ITDP Kinvat/AS
 Maker) in Govt. Ashram School (PO ITDP Bodhadi, Patoda, ३०.१५ ६.१५ Kinwat) Sarkhani, Jaladhara,
 Sahastrkund
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| २१ | Serve Happiness Foundation- Narmada Prerna Yatra, 8 days journey to narmada region. (yo students) | Serve Happiness Foundation/Commissio nerate | ५.०० | १.०२ |
+| २२ | Recurring cost for EMRS students | Eklavya Society | ४३२०.६७ | ८८१.२६ |
+| २३ | National Small Holder Poultry Development Trust - (~8ooo beneficiaries;vidarbha) | Commissionerate/NSP DT/Vidarbha Region | ५००.०० | १०१.९८ |
+| २४ | BAIF -Seed Bank for indegenious seed conservation, production, marketing and sale (PO ITDP Rajur) | PO ITDP Rajur/BAIF/Akole Block, 2o Villages | ५०.७५ | १०.३५ |
+| २५ | Quest Centre for Innovation, Planning and Evaluation. To conduct analysis on existing policy, provide research inputs and for monitoring and evaluation of projects undertaken by TDD | TRTI | ३००.०० | ६१.१९ |
+| २६ | Gadchiroli District Sports Complex- A complex with gallery for 2000 people, 8oom running track, multipurpose hall for indoor sports and other vital facilities. Collector office, Gadchiroli | PO ITDP Gadchiroli/Collector office Gadchiroli | ४५७.५० | ९३.३१ |
+| २७ | Pragati Abhiyan Revival of Millets Finger Millets in PESA areas for better nutrition security, income enhancement and support climate resilient activity for tribal families. | Commissionerate/PO ITDP Nashik,Kalwan,Shahapur Jawhar/Pragati Abhiyan | ४२.१९ | ८.६१ |
+| २८ | Pragati Abhiyan: To increase yields by comprehensive millets revival, and to include primary processing units for young entrepreneurs; capacity building for various recipes that can be included in ICDS, MDM and Ashram Shala. | Commissionerate/ PO ITDP Nashik,Kalwan,Shahap ur, Jawhar /Pragati Abhiyan | १३५.०० | २७.५३ |
+| २९ | Providing heat pump water heater for bathing facilities for student in government ashram school (PO ITDP Dhule) and EMRS | PO ITDP Dhule | ६४.०० | १३.०५ |
+| ३० | Monitoring and Evaluation (2% of sanctioned Commissionerate/TRTI schemes) | २९८.६७ | ६०.९२ |
+|  | Total (Committed+New Projects) |  |  |  |  |  | १५१८४.२९ |  |  | ३०९७.०३ |  |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 पृष्ठ ६ पैकी ४
 # Page 5
 शासन निर्णय क्रमांकः केंद्रिय-२०१९/प्र.क्र.६३/का.-१९
