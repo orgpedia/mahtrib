@@ -1,0 +1,36 @@
+{
+  "name": "20081128131703001.pdf",
+  "file_id": "f_e3b0c44298fc1c14",
+  "source": {
+    "path": "input/pdfs/2008-11/20081128131703001.pdf",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "state": {
+    "last_revision": 1,
+    "edits_file": "20081128131703001.pdf.edits.yml",
+    "edits_hash": "",
+    "steps": {
+      "text": {
+        "status": "failed",
+        "reason": "PdfiumError: Failed to load document (PDFium: Data format error).",
+        "at": "2026-11-23T14:13:02.813882+00:00"
+      }
+    }
+  },
+  "status": "failed",
+  "problem": {
+    "step": "text",
+    "reason": "PdfiumError: Failed to load document (PDFium: Data format error)."
+  },
+  "issues": {
+    "total": 0,
+    "by_code": {}
+  },
+  "versions": {},
+  "output": {
+    "path": "../../export/build_doc_/20081128131703001.pdf.govdoc.json.zst",
+    "sha256": "6f1e504704b42493ddc8622899c75552786aab10a61753776b877c73aa388198",
+    "size": 359,
+    "revision": 1
+  }
+}

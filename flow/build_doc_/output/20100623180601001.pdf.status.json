@@ -1,0 +1,10 @@
+{
+  "name": "20100623180601001.pdf",
+  "file_id": null,
+  "source": {
+    "path": "input/pdfs/2010-03/20100623180601001.pdf",
+    "sha256": "cdd99d74f06fa2e7efd835195b404d4a822ed10515d33b876e07802ea0b12985"
+  },
+  "status": "skipped",
+  "reason": "23 pages, over max_pages 20"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "20070416190003001.pdf",
+  "file_id": null,
+  "source": {
+    "path": "input/pdfs/2007-04/20070416190003001.pdf",
+    "sha256": "eb16ff7ce98daad628c19fa5c59288865e2c5e0f676057d8fd147535fb377cc0"
+  },
+  "status": "skipped",
+  "reason": "27 pages, over max_pages 20"
+}
