@@ -22,7 +22,9 @@ export
 endif
 
 run := uv run --no-sync
-PORT ?= 8811
+# the machine's one Studio (orgpedia/doc studio.md §S8), for every department under STUDIO_ROOT (the repository's parent)
+STUDIO_PORT ?= 8810
+export STUDIO_ROOT ?= $(abspath $(CURDIR)/../../..)
 # where make review finds the PDFs for Studio's page images, by name at any depth: not linked into input/, since this
 # task does not process them (orgpedia/doc docflow.md §N27 rule 10); gone after make clean_pdfs, until make import
 PDFS_DIR ?= ../../import/pdfs
@@ -67,10 +69,11 @@ batch: values
 	@echo "build_glossary_: version $(today) written; pin it in depts.yml (data: registry, memory), then make update_from_copier"
 
 # what a person reviews, in the browser: Studio on build_doc_'s GovDoc files (input/govdoc/), opened at the candidate
-# names, each with a link to its GRs, the page images from PDFS_DIR. Nothing is run (make first); Ctrl+C stops it
+# names, each with a link to its GRs, the page images from PDFS_DIR. Nothing is run (make first); in the machine's one
+# Studio (studio.md §S8), which stays for the next task and department (uv run studio stop)
 review:
 	@test -f review/glossary/names.html || { echo "review: no names page yet (make, or make candidates)"; exit 1; }
-	$(run) studio serve --port $(PORT) --dir input/govdoc --pdfs $(PDFS_DIR) --page review/glossary/names.html
+	STUDIO_PORT=$(STUDIO_PORT) $(run) studio open --dir input/govdoc --pdfs $(PDFS_DIR) --page review/glossary/names.html
 
 check:
 	@echo "build_glossary_: no samples"

@@ -3,7 +3,7 @@
 <!-- issues -->
 ## Issues
 
-Over 0 files (written by `docflow export`).
+Over 4,347 files (written by `docflow export`).
 
 | Step | Issue | Severity | Files | Share | Count |
 |---|---|---|--:|--:|--:|

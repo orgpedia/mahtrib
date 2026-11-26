@@ -19,8 +19,12 @@ endif
 run := uv run --no-sync
 docflow := $(run) docflow
 flow := src/flow.yml
-# where make studio serves the reviewer; the scorecard's links open it there (other Studios often hold 8800-8801)
-PORT ?= 8810
+# the machine's one Studio (orgpedia/doc studio.md §S8): make review asks it to open this task, starting it if none
+# answers, for every department under STUDIO_ROOT (this repository's parent folder); the scorecard's links name it
+STUDIO_PORT ?= 8810
+export STUDIO_ROOT ?= $(abspath $(CURDIR)/../../..)
+# make studio: a Studio of this task alone, which can run the flow again (r); on a port of its own
+PORT ?= 8811
 
 .PHONY: all values input listed import flow validate issues scorecard explain expect check export output repeats tables studio review
 
@@ -81,7 +85,7 @@ issues: values
 # how the run went, for a person to read before committing: review/setup/scorecard.html (and .txt, .json), beside
 # every other department's scorecard (the repos next to this one) and this one's last
 scorecard: issues
-	$(run) mahdept report scorecard --studio http://localhost:$(PORT)/
+	$(run) mahdept report scorecard --studio http://localhost:$(STUDIO_PORT)/
 
 # what a run would do, step by step, counted (logs/info.explain.log has every file's)
 explain: values
@@ -121,8 +125,8 @@ logs:
 studio:
 	$(run) studio serve --port $(PORT) $(if $(DOCS),--docs $(DOCS)) $(if $(DOC),--doc $(DOC)) $(if $(DIR),--dir $(DIR))
 
-# what a person reviews, in the browser: Studio on every file in output/, opened at the scorecard, whose every cell and
-# issue opens its GRs. Nothing is run (make first); Ctrl+C stops it
+# what a person reviews, in the browser: the machine's Studio opened at this task's scorecard, whose every cell and
+# issue opens its GRs. Nothing is run (make first); the Studio stays for the next task and department (studio stop)
 review:
 	@test -f review/setup/scorecard.html || { echo "review: no scorecard yet (make, or make scorecard)"; exit 1; }
-	$(run) studio serve --port $(PORT) --page review/setup/scorecard.html
+	STUDIO_PORT=$(STUDIO_PORT) $(run) studio open --page review/setup/scorecard.html
